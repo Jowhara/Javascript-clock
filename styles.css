@@ -5,8 +5,9 @@ body {
 .clock {
     position: absolute;
     top: 50%;
-    left: 50%;
+    right: 40%;
     color: white;
+    letter-spacing: 2px;
     font-size: 60px;
     font-family: 'Silkscreen', cursive;
 }
